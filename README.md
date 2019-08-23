@@ -1,13 +1,4 @@
 # http_demo
 a simple demo to show how HTTP works by implement client and server application.
 
-按此目录存放源码, 语言不限，自己定义端口。
-├── lvjie
-│   ├── client
-│   └── server
-├── shouxin
-│   ├── client
-│   └── server
-└── zixuan
-    ├── client
-    └── server
+每个人创建自己的目录，目录里包括client server两个文件夹存放客户端和服务端的程序。
