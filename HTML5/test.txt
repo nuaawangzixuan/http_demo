@@ -1,0 +1,8 @@
+火狐浏览器跨域修改:
+1.进入火狐配置页进行设置
+输入:about:config
+2.点击”我了解此风险”后进入页面
+3.搜索”security.fileuri.strict_origin_policy”,并设置该项为false
+这里写图片描述
+4.重启浏览器，可以跨域访问
+
